@@ -16,14 +16,14 @@ layout: default
 
 - 🇺🇦 Посольство України в Республіці Австрія 🇦🇹 Botschaft der Ukraine 🇬🇧 Ukrainian Embassy
   - 🇺🇦 [офіційний веб-сайт](http://mfa.gov.ua/austria) (Можливо, недоступний)
-  - 🇬🇧 [Official Website](http://mfa.gov.ua/austria) (possibly offline)
   - 🇦🇹 [Offizielle Webseite](http://mfa.gov.ua/austria) (Möglicherweise nicht erreichbar)
+  - 🇬🇧 [Official Website](http://mfa.gov.ua/austria) (possibly offline)
   - 🇺🇦 Телефон: [+43 1 479 71 72 11](tel:+431479717211) (Надзвичайна ситуація: +43 1 479 71 72 21)
   - 🇦🇹 Telefon: [+43 1 479 71 72 11](tel:+431479717211) (Notfall: +43 1 479 71 72 21)
   - 🇬🇧 Telephone: [+43 1 479 71 72 11](tel:+431479717211) (Emergency: +43 1 479 71 72 21)
   - 🇺🇦 [Сторінка у Facebook з __важливою інформацією__](https://www.facebook.com/ukremb.at/)
-  - 🇬🇧 [Facebook Page with __important information__](https://www.facebook.com/ukremb.at/)
   - 🇦🇹 [Facebook Seite mit __wichtigen Informationen__](https://www.facebook.com/ukremb.at/)
+  - 🇬🇧 [Facebook Page with __important information__](https://www.facebook.com/ukremb.at/)
 - 🇺🇦 Місто відень 🇦🇹 Stadt Wien 🇬🇧 City of Vienna
   - 🇺🇦 [Інформація для біженців з України](https://start.wien.gv.at/ukraine)
   - 🇦🇹 [Informationen für Menschen aus der Ukraine](https://start.wien.gv.at/ukraine/de)
@@ -56,6 +56,21 @@ layout: default
   - 🇺🇦 VOR можна використовувати безкоштовно "до подальшого повідомлення" (Федеральні землі Відень, Нижня Австрія та Бургенланд) [↗️](/2022/03/02/vor.html)
   - 🇦🇹 VOR "bis auf weiteres" kostenlos nutzbar (Wien, Niederösterreich und Burgendland).[↗️](https://www.vor.at/service/aktuelles/detail/news/ukraine-fluechtlinge-koennen-alle-verkehrsmittel-im-vor-gratis-nutzen/)
   - 🇬🇧 VOR can be used free of charge "until further notice" (Federal states of Vienna, Lower Austria and Burgenland) [↗️](/2022/03/02/vor.html)
+- OÖVV - 🇺🇦 Транспортна асоціація Верхньої Австрії 🇦🇹 OÖ Verkehrsverbund 🇬🇧 Upper Austrian transport association [↗️](https://www.ooevv.at/)
+  - 🇺🇦 Біженці з українськими документами, що посвідчують особу, тепер можуть безкоштовно користуватися всіма автобусами та потягами в мережі Верхньої Австрії. [↗️](https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662)
+  - 🇦🇹 Geflüchtete Menschen mit ukrainischen Ausweisdokumenten können ab sofort alle Busse und Bahnen im Verbundraum OÖ kostenfrei nutzen. [↗️](https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662)
+  - 🇬🇧 Refugees with Ukrainian ID documents can now use all buses and trains in the Upper Austrian network free of charge. [↗️](https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662)
+
+## 🇺🇦 охорона здоров'я 🇦🇹 Gesundheit 🇬🇧 Healthcare
+
+🇺🇦 Ситуація ще не вирішена, але має бути незабаром. А поки всі лікарі, які мають контракт з ÖGK (однією з австрійських федеральних систем медичного страхування), будуть лікувати вас безкоштовно, потрібно лише мати при собі паспорт ([джерело](https://www.arztnoe.at/fuer-aerzte/news-details/krankenbehandlung-von-fluechtlingen-aus-der-ukraine)). Ось веб-сайт для пошуку лікарів за мовами, якими вони володіють: [Docfinder.at](https://www.docfinder.at/suche/praktischer-arzt?whatType=search_group&whereType=country&userSubmitted=1&insurances%5B0%5D=%C3%96GK&sortBy=relevance&originalWhat=Praktischer+Arzt
+)
+
+🇦🇹 Noch sind nicht alle Dinge geklärt, sollte aber bald so weit sein. In der Zwischenzeit behandeln dich alle Vertragsärzte der ÖGK kostenlos, du musst nur deinen Reisepass mitbringen ([Quelle](https://www.arztnoe.at/fuer-aerzte/news-details/krankenbehandlung-von-fluechtlingen-aus-der-ukraine)). Hier ist eine Website, auf der du Ärzte anhand der Sprachen suchen können, die sie sprechen: [Docfinder.at](https://www.docfinder.at/suche/praktischer-arzt?whatType=search_group&whereType=country&userSubmitted=1&insurances%5B0%5D=%C3%96GK&sortBy=relevance&originalWhat=Praktischer+Arzt
+)
+
+🇬🇧 Things are not yet sorted out, but should be soon. In the meantime, all doctors with a contract with the ÖGK (one of the austrian federal health insurance systems) will treat you for free, you just need bring your passport ([source](https://www.arztnoe.at/fuer-aerzte/news-details/krankenbehandlung-von-fluechtlingen-aus-der-ukraine)). Here is a website to search for doctors by the languages they can speak: [Docfinder.at](https://www.docfinder.at/suche/praktischer-arzt?whatType=search_group&whereType=country&userSubmitted=1&insurances%5B0%5D=%C3%96GK&sortBy=relevance&originalWhat=Praktischer+Arzt
+)
 
 ## 🇺🇦 Фінанси 🇦🇹 Finanzielles 🇬🇧 Financials
 
