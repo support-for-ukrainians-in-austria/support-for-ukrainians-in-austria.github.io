@@ -1,0 +1,12 @@
+id: city-of-vienna
+order: 20
+content:
+  ua:
+    title: 'Місто відень'
+    body: |
+      [Інформація для біженців з України](https://start.wien.gv.at/ukraine)
+
+  de:
+    title: 'Stadt Wien'
+    body: |
+      [Informationen für Menschen aus der Ukraine](https://start.wien.gv.at/ukraine/de)

@@ -1,0 +1,26 @@
+id: ooevv
+order: 20
+content:
+  ua:
+    title: 'Транспортна асоціація Верхньої Австрії'
+    body: |
+      Біженці з українськими документами, що посвідчують особу, тепер можуть безкоштовно користуватися всіма автобусами та потягами в мережі Верхньої Австрії.
+    source:
+      url: "https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662"
+      lang: de
+
+  de:
+    title: 'OÖ Verkehrsverbund'
+    body: |
+      Geflüchtete Menschen mit ukrainischen Ausweisdokumenten können ab sofort alle Busse und Bahnen im Verbundraum OÖ kostenfrei nutzen.
+    source:
+      url: "https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662"
+      lang: de
+
+  en:
+    title: 'Upper Austrian transport association'
+    body: |
+      Refugees with Ukrainian ID documents can now use all buses and trains in the Upper Austrian network free of charge.
+    source:
+      url: "https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662"
+      lang: de

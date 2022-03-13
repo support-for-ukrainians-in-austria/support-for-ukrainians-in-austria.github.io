@@ -1,94 +1,127 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: default
 ---
 
-🇺🇦 На цій сторінці зібрано важливу та корисну інформацію для всіх, хто приїжджає до Австрії з України та для тих, хто їм допомагає.
+<p lang="ua">
+  🇺🇦 На цій сторінці зібрано важливу та корисну інформацію для всіх, хто приїжджає до Австрії з України та для тих, хто їм допомагає. Це спільний проект – ми раді зворотній зв’язку та допомозі.
+</p>
 
-🇦🇹 Diese Seite sammelt wichtige und nützliche Informations für alle, die aus der Ukraine nach Österreich kommen und für jene, die ihnen helfen.
+<p lang="de">
+  🇦🇹 Diese Seite sammelt wichtige und nützliche Informations für alle, die aus der Ukraine nach Österreich kommen und für jene, die ihnen helfen. Das ist ein gemeinschaftliches Projekt - wir freuens auf Hinweise und Hilfe.
+</p>
 
-🇬🇧 This page collects important and useful information for everyone who comes to Austria from Ukraine and for those who help them.
+<p lang="en">
+  🇬🇧 This page collects important and useful information for everyone who comes to Austria from Ukraine and for those who help them. This is a collaborative project - we welcome feedback and help.
+</p>
 
-## 🇺🇦 Служба екстреної допомоги [↗️](https://uk.wikipedia.org/wiki/112_(%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0_%D0%B5%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BD%D0%BE%D1%97_%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B8)) 🇦🇹 Notruf 🇬🇧 Emergency Service
+<div id="select-languages">
+  <form id="select-languages-form">
+    <div class="align-middle" style="font-size: 2rem">
+      <div class="form-check form-switch">
+        <input class="form-check-input" type="checkbox" name="language" id="language_ua" value="ua" checked>
+        <label class="form-check-label" for="language_ua">
+          🇺🇦 Виберіть Мови
+        </label>
+      </div>
+      <div class="form-check form-switch">
+        <input class="form-check-input" type="checkbox" name="language" id="language_de" value="de">
+        <label class="form-check-label" for="language_de">
+          🇦🇹 Wähle Sprachen
+        </label>
+      </div>
+      <div class="form-check form-switch">
+        <input class="form-check-input" type="checkbox" name="language" id="language_en" value="en">
+        <label class="form-check-label" for="language_en">
+          🇬🇧 Select Languages
+        </label>
+      </div>
+    </div>
+  </form>
+</div>
 
-# &nbsp;&nbsp;&nbsp; 📞 112
+<script type="text/javascript">
+  var languageSelector = document.getElementById('select-languages');
+  var languageForm = document.forms['select-languages-form'];
 
-## 🇺🇦 Офіційні органи 🇦🇹 Offizielle Stellen 🇬🇧 Official Bodies
+  languageSelector.addEventListener('click', handleChange);
+  function handleChange(event) {
+    // Collect selected.
+    var allOptions = languageForm.elements['language'];
+    var selectedLanguages = [];
+    var selectedClasses = [];
+    allOptions.forEach((element) => {
+      if (element.checked) {
+        selectedLanguages.push(element.value);
+        selectedClasses.push('.language-content-' + element.value);
+      }
+    });
+    console.log('Selected languages: ' + selectedLanguages.join(', '));
 
-- 🇺🇦 Посольство України в Республіці Австрія 🇦🇹 Botschaft der Ukraine 🇬🇧 Ukrainian Embassy
-  - 🇺🇦 [офіційний веб-сайт](http://mfa.gov.ua/austria) (Можливо, недоступний)
-  - 🇦🇹 [Offizielle Webseite](http://mfa.gov.ua/austria) (Möglicherweise nicht erreichbar)
-  - 🇬🇧 [Official Website](http://mfa.gov.ua/austria) (possibly offline)
-  - 🇺🇦 Телефон: [+43 1 479 71 72 11](tel:+431479717211) (Надзвичайна ситуація: +43 1 479 71 72 21)
-  - 🇦🇹 Telefon: [+43 1 479 71 72 11](tel:+431479717211) (Notfall: +43 1 479 71 72 21)
-  - 🇬🇧 Telephone: [+43 1 479 71 72 11](tel:+431479717211) (Emergency: +43 1 479 71 72 21)
-  - 🇺🇦 [Сторінка у Facebook з __важливою інформацією__](https://www.facebook.com/ukremb.at/)
-  - 🇦🇹 [Facebook Seite mit __wichtigen Informationen__](https://www.facebook.com/ukremb.at/)
-  - 🇬🇧 [Facebook Page with __important information__](https://www.facebook.com/ukremb.at/)
-- 🇺🇦 Місто відень 🇦🇹 Stadt Wien 🇬🇧 City of Vienna
-  - 🇺🇦 [Інформація для біженців з України](https://start.wien.gv.at/ukraine)
-  - 🇦🇹 [Informationen für Menschen aus der Ukraine](https://start.wien.gv.at/ukraine/de)
-- "BBU"
-  - 🇺🇦 Федеральне агентство з прийому та підтримки [↗️](https://www.bbu.gv.at/en/information-for-ukrainian-citizens-in-austria)
-  - 🇦🇹 Bundesagentur für Betreuungs- und Unterstützungsleistungen [↗️](https://www.bbu.gv.at/)
-  - 🇬🇧 Federal Agency for Reception and Support Services [↗️](https://www.bbu.gv.at/en)
-- 🇺🇦 Інформація про коронавірус 🇦🇹 Informationen zum Coronavirus 🇬🇧 Information about the coronavirus
-  - 🇺🇦 [Запобіжні заходи під час коронавірусу](https://www.integrationsfonds.at/coronainfo/ua/)
-  - 🇦🇹 [Corona-Sicherheitsmaßnahmen](https://www.integrationsfonds.at/coronainfo/)
-  - 🇬🇧 [Coronavirus safety measures](https://www.integrationsfonds.at/coronainfo/en/)
-  - 🇺🇦 Обов'язкова вакцинація __не__ перевірена або оштрафована (джерело очікує)
-  - 🇦🇹 Die Impflicht wird __nicht__ kontrolliert oder bestraft (Quelle ausstehend)
-  - 🇬🇧 Mandatory vaccination is __not__ checked or penalized (Source pending)
+    // Hide all.
+    document.querySelectorAll('.language-content').forEach(function(el) {
+      el.classList.add("hide");
+    });
+    // Display selected.
+    document.querySelectorAll(selectedClasses.join(', ')).forEach(function(el) {
+      el.classList.remove("hide");
+    });
+  }
 
-## 🇺🇦 Спілкування 🇦🇹 Kommunikation 🇬🇧 Communication
+  window.addEventListener('DOMContentLoaded', (event) => {
+    handleChange()
+  });
+</script>
 
-- Magenta [↗️](https://magenta.at)
-  - 🇺🇦 Телефонуйте та серфінгуйте безкоштовно з українською сім-картою. [↗️](/2022/03/07/magenta.html)
-  - 🇦🇹 Mit ukrainischer Sim-Karte kostenlos telefonieren und surfen. [↗️](https://blog.magenta.at/2022/03/07/sim-karten-fuer-fluechtlinge/)
-  - 🇬🇧 Call and surf for free with a Ukrainian SIM card. [↗️](/2022/03/07/magenta.html)
+<div class="sections">
+  {% for section in site.data.sections.index.sections %}
+    <h2 id="{{ section.id }}" class="section">
+      {% if section.title.ua %}
+        <span class="language-content language-content-ua" lang="ua">🇺🇦 {{ section.title.ua }}</span>
+      {% endif %}
+      {% if section.title.de %}
+        <span class="language-content language-content-de" lang="de">🇦🇹 {{ section.title.de }}</span>
+      {% endif %}
+      {% if section.title.en %}
+        <span class="language-content language-content-en" lang="en">🇬🇧 {{ section.title.en }}</span>
+      {% endif %}
+    </h2>
 
-## 🇺🇦 Перевезення 🇦🇹 Transport 🇬🇧 Transportation
+    {% assign entries = site.data.sections.index.emptyArray %}
+    {% for entry_hash in site.data.sections[section.id] %}
+      {% assign entries = entries | push: entry_hash[1] %}
+    {% endfor %}
+    {% assign entries = entries | sort: "order" %}
 
-- ÖBB - 🇺🇦 Австрійські федеральні залізниці 🇦🇹 Österreichische Bundesbahn 🇬🇧 Austrian Federal Railways [↗️](https://www.oebb.at/)
-  - 🇺🇦 Поїздами ÖBB можна користуватися безкоштовно [↗️](https://twitter.com/BMKlimaschutz/status/1497938641754238991)
-  - 🇦🇹 ÖBB-Züge kostenlos nutzbar [↗️](https://twitter.com/BMKlimaschutz/status/1497916096137113603)
-  - 🇬🇧 ÖBB trains can be used free of charge [↗️](https://twitter.com/BMKlimaschutz/status/1497938451471208452)
-- VOR - 🇺🇦 Транспортна асоціація Східного регіону 🇦🇹 Verkehrsverbund Ost-Region 🇬🇧 Transport Association Eastern Region [↗️](https://www.vor.at/)
-  - 🇺🇦 VOR можна використовувати безкоштовно "до подальшого повідомлення" (Федеральні землі Відень, Нижня Австрія та Бургенланд) [↗️](/2022/03/02/vor.html)
-  - 🇦🇹 VOR "bis auf weiteres" kostenlos nutzbar (Wien, Niederösterreich und Burgendland).[↗️](https://www.vor.at/service/aktuelles/detail/news/ukraine-fluechtlinge-koennen-alle-verkehrsmittel-im-vor-gratis-nutzen/)
-  - 🇬🇧 VOR can be used free of charge "until further notice" (Federal states of Vienna, Lower Austria and Burgenland) [↗️](/2022/03/02/vor.html)
-- OÖVV - 🇺🇦 Транспортна асоціація Верхньої Австрії 🇦🇹 OÖ Verkehrsverbund 🇬🇧 Upper Austrian transport association [↗️](https://www.ooevv.at/)
-  - 🇺🇦 Біженці з українськими документами, що посвідчують особу, тепер можуть безкоштовно користуватися всіма автобусами та потягами в мережі Верхньої Австрії. [↗️](https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662)
-  - 🇦🇹 Geflüchtete Menschen mit ukrainischen Ausweisdokumenten können ab sofort alle Busse und Bahnen im Verbundraum OÖ kostenfrei nutzen. [↗️](https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662)
-  - 🇬🇧 Refugees with Ukrainian ID documents can now use all buses and trains in the Upper Austrian network free of charge. [↗️](https://www.ooevv.at/?seite=news-inhalte-global&sprache=DE&inhaltID=3662)
-
-## 🇺🇦 охорона здоров'я 🇦🇹 Gesundheit 🇬🇧 Healthcare
-
-🇺🇦 Ситуація ще не вирішена, але має бути незабаром. А поки всі лікарі, які мають контракт з ÖGK (однією з австрійських федеральних систем медичного страхування), будуть лікувати вас безкоштовно, потрібно лише мати при собі паспорт ([джерело](https://www.arztnoe.at/fuer-aerzte/news-details/krankenbehandlung-von-fluechtlingen-aus-der-ukraine)). Ось веб-сайт для пошуку лікарів за мовами, якими вони володіють: [Docfinder.at](https://www.docfinder.at/suche/praktischer-arzt?whatType=search_group&whereType=country&userSubmitted=1&insurances%5B0%5D=%C3%96GK&sortBy=relevance&originalWhat=Praktischer+Arzt
-)
-
-🇦🇹 Noch sind nicht alle Dinge geklärt, sollte aber bald so weit sein. In der Zwischenzeit behandeln dich alle Vertragsärzte der ÖGK kostenlos, du musst nur deinen Reisepass mitbringen ([Quelle](https://www.arztnoe.at/fuer-aerzte/news-details/krankenbehandlung-von-fluechtlingen-aus-der-ukraine)). Hier ist eine Website, auf der du Ärzte anhand der Sprachen suchen können, die sie sprechen: [Docfinder.at](https://www.docfinder.at/suche/praktischer-arzt?whatType=search_group&whereType=country&userSubmitted=1&insurances%5B0%5D=%C3%96GK&sortBy=relevance&originalWhat=Praktischer+Arzt
-)
-
-🇬🇧 Things are not yet sorted out, but should be soon. In the meantime, all doctors with a contract with the ÖGK (one of the austrian federal health insurance systems) will treat you for free, you just need bring your passport ([source](https://www.arztnoe.at/fuer-aerzte/news-details/krankenbehandlung-von-fluechtlingen-aus-der-ukraine)). Here is a website to search for doctors by the languages they can speak: [Docfinder.at](https://www.docfinder.at/suche/praktischer-arzt?whatType=search_group&whereType=country&userSubmitted=1&insurances%5B0%5D=%C3%96GK&sortBy=relevance&originalWhat=Praktischer+Arzt
-)
-
-## 🇺🇦 Фінанси 🇦🇹 Finanzielles 🇬🇧 Financials
-
-- Erste Bank & Sparkasse [↗️](https://www.sparkasse.at/sgruppe/stand-with-ukraine)
-  - 🇺🇦 Поки що перекази в Україну безкоштовні.
-  - 🇦🇹 Bis auf Weiteres sind Überweisungen in die Ukraine gebührenfrei möglich. [↗️](https://www.sparkasse.at/sgruppe/stand-with-ukraine)
-  - 🇬🇧 For the time being, transfers to Ukraine are free of charge.
-
-## 🇺🇦 Для господарів 🇦🇹 Für Gastgeber 🇬🇧 For Hosts
-
-- 🇦🇹 Erste Schritte
-  - 1. Gäste beim Gemeindeamt/Meldeamt/Magistrat anmelden. [↗️](https://www.oesterreich.gv.at/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html)
-    - In ländlicheren Gebieten ist eventuell eine Terminvereinbarung erwünscht.
-    - Benötigte Dokumente: Pässe und [Meldezettel](https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldezettel.pdf) (ausgefüllt und doppelt unterschrieben).
-    - Die Gäste selbst müssen nicht mitkommen. Es kann eigentlich jeder mit den Dokumenten die Anmeldung vornehmen.
-  - Für weitere Schritte (Krankenversicherung, staatliche Unterstützung und Arbeitsmarktzugang) braucht es die Umsetzung der EU-Richtlinie über vorübergehenden Schutz im Falle einer Massenfluchtbewegung in Österreich. Diese sollte bis 10.03. vorliegen. [↗️](http://www.asyl.at/de/info/news/informationenzurfluchtausderukraine/)
-- 🇦🇹 Weitere Ressourcen
-  - Asyl.at: [Aktuelle Informationen zu schutzsuchenden Menschen aus der Ukraine](http://www.asyl.at/de/info/news/informationenzurfluchtausderukraine/)
-
-<div class="github-ribbon" style="position: absolute; right: 0px; top: 0px; width: 150px; height: 150px; overflow: hidden; z-index: 99999;"><a target="_blank" href="https://github.com/support-for-ukrainians-in-austria/support-for-ukrainians-in-austria.github.io" style="display: inline-block; width: 200px; overflow: hidden; padding: 6px 0px; text-align: center; transform: rotate(45deg); text-decoration: none; color: rgb(255, 255, 255); position: inherit; top: 45px; right: -40px; border-width: 1px 0px; border-style: dotted; border-color: rgba(255, 255, 255, 0.7); font: 700 13px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 3px 0px; background-color: rgb(170, 0, 0);">Send a PR on GitHub</a></div>
-<!-- From https://github.com/forkmeon/forkmeon.github.io -->
+    {% for entry in entries %}
+      <ul id="{{ section.id }}-{{ entry.id }}" class="list-group section-entry">
+        {% for content_hash in entry.content %}
+        {% assign language = content_hash[0] %}
+        <li id="{{ section.id }}-{{ entry.id }}-{{ language }}" class="list-group-item language-content language-content-{{ language }}" lang="{{ language }}">
+          <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">
+              {% include snippets/flag.html language=language %}
+              {{ content_hash[1].title }}
+            </h5>
+            {% if content_hash[1].source %}
+            {% assign source = content_hash[1].source %}
+            {% assign source_url = source.url %}
+            {% assign source_language = source.lang %}
+            <small>
+              {% include snippets/source.html language=language url=source_url source_language=source_language %}
+            </small>
+            {% endif %}
+          </div>
+          {% if content_hash[1].body %}
+          <div class="mb-1">
+            {{ content_hash[1].body | markdownify }}
+          </div>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  {% endfor %}
+</div>

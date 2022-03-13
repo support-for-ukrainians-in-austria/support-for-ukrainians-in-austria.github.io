@@ -1,0 +1,20 @@
+id: integrationsfonds-covid
+order: 40
+content:
+  ua:
+    title: 'Інформація про коронавірус'
+    body: |
+      [Запобіжні заходи під час коронавірусу](https://www.integrationsfonds.at/coronainfo/ua/)  
+      Обов'язкова вакцинація __не__ перевірена або оштрафована (джерело очікує)
+
+  de:
+    title: 'Informationen zum Coronavirus'
+    body: |
+      [Corona-Sicherheitsmaßnahmen](https://www.integrationsfonds.at/coronainfo/)  
+      Die Impflicht wird __nicht__ kontrolliert oder bestraft (Quelle ausstehend)
+
+  en:
+    title: 'Information about the coronavirus'
+    body: |
+      [Coronavirus safety measures](https://www.integrationsfonds.at/coronainfo/en/)  
+      Mandatory vaccination is __not__ checked or penalized (Source pending)

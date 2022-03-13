@@ -1,0 +1,23 @@
+id: ua-embassy
+order: 10
+content:
+  ua:
+    title: 'Посольство України в Республіці Австрія'
+    body: |
+      [офіційний веб-сайт](http://mfa.gov.ua/austria) (Можливо, недоступний)  
+      Телефон: [+43 1 479 71 72 11](tel:+431479717211) (Надзвичайна ситуація: +43 1 479 71 72 21)  
+      [Сторінка у Facebook з __важливою інформацією__](https://www.facebook.com/ukremb.at/)
+
+  de:
+    title: 'Botschaft der Ukraine'
+    body: |
+      [Offizielle Webseite](http://mfa.gov.ua/austria) (Möglicherweise nicht erreichbar)  
+      Telefon: [+43 1 479 71 72 11](tel:+431479717211) (Notfall: +43 1 479 71 72 21)  
+      [Facebook Seite mit __wichtigen Informationen__](https://www.facebook.com/ukremb.at/)
+
+  en:
+    title: 'Ukrainian Embassy'
+    body: |
+      [Official Website](http://mfa.gov.ua/austria) (possibly offline)  
+      Telephone: [+43 1 479 71 72 11](tel:+431479717211) (Emergency: +43 1 479 71 72 21)  
+      [Facebook Page with __important information__](https://www.facebook.com/ukremb.at/)

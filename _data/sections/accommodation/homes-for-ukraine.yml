@@ -1,0 +1,17 @@
+id: homes-for-ukraine
+order: 10
+content:
+  ua:
+    title: 'Homes for Ukraine'
+    body: |
+      [Homes for Ukraine](https://homesforukraine.eu/uk/home-ukr/) — це ініціатива некомерційних громадських організацій Barbareum, Unlimited Democracy та TUMA з метою надання безоплатного тимчасового житла в Європі для українців, які були змушені покинути свої домівки через війну.
+
+  de:
+    title: 'Homes for Ukraine'
+    body: |
+      [Homes for Ukraine](https://homesforukraine.eu/de/home-deu/) ist eine Initiative der gemeinnützigen öffentlichen Organisationen Barbareum, Unlimited Democracy und TUMA mit dem Ziel, ukrainischen Menschen, die ihre Heimat verlassen mussten, vorübergehend eine kostenlose Unterkunft innerhalb Europa zu bieten.
+
+  en:
+    title: 'Homes for Ukraine'
+    body: |
+      [Homes for Ukraine](https://homesforukraine.eu/en/home-eng/) is an initiative of non-profit public organizations Barbareum, Unlimited Democracy and TUMA with the aim of providing free, temporary accommodation within Europe for Ukrainians who were forced to leave their homes.

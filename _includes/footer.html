@@ -1,25 +1,19 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">This website is a collaborative project and was started by Daniel. Any contributions are very welcome. Please contact me or open an issue/PR on Github.</li>
+<footer class="footer mt-auto py-3 bg-light h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <div class="container py-3">
+    <div class="row">
+      <div class="col">
+        This collaborative project is maintained by:
+        <ul class="contact-list list-unstyled">
+        {% for maintainer in site.data.maintainers.maintainers %}
+          {% assign maintainer_social = maintainer.social %}
+          <li class="p-name">{{ maintainer.name | escape }} {% include social.html social=maintainer_social %}</li>
+        {% endfor %}
         </ul>
       </div>
-
-      <div class="footer-col footer-col-2">
-            {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>
-          This "awesome list" of support for Ukrainians in Austria is inspired by the many other "awesome lists" out there.
-        </p>
+      <div class="col">
+        <p>{{ site.description | escape }}</p>
       </div>
     </div>
-
   </div>
 </footer>

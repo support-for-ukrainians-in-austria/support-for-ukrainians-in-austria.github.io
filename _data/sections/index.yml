@@ -1,0 +1,33 @@
+sections:
+  - id: official
+    title:
+      ua: "Офіційні органи"
+      de: "Offizielle Stellen"
+      en: "Official Bodies"
+  - id: communication
+    title:
+      ua: "Спілкування"
+      de: "Kommunikation"
+      en: "Communication"
+  - id: transportation
+    title:
+      ua: "Перевезення"
+      de: "Transport"
+      en: "Transportation"
+  - id: healthcare
+    title:
+      ua: "охорона здоров'я"
+      de: "Gesundheit"
+      en: "Healthcare"  
+  - id: accommodation
+    title:
+      ua: "Проживання"
+      de: "Unterkunft"
+      en: "Accommodation"
+  - id: hosts
+    title:
+      ua: "Для господарів"
+      de: "Für Gastgeber"
+      en: "For Hosts"
+
+emptyArray: [] # workaround for getting an empty array in liquied

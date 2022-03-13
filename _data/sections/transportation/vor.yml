@@ -1,0 +1,26 @@
+id: vor
+order: 20
+content:
+  ua:
+    title: 'Транспортна асоціація Східного регіону'
+    body: |
+      VOR можна використовувати безкоштовно "до подальшого повідомлення" (Федеральні землі Відень, Нижня Австрія та Бургенланд)
+    source:
+      url: "https://www.vor.at/service/aktuelles/detail/news/ukraine-fluechtlinge-koennen-alle-verkehrsmittel-im-vor-gratis-nutzen/"
+      lang: de
+
+  de:
+    title: 'Verkehrsverbund Ost-Region'
+    body: |
+      VOR "bis auf weiteres" kostenlos nutzbar (Wien, Niederösterreich und Burgendland).
+    source:
+      url: "https://www.vor.at/service/aktuelles/detail/news/ukraine-fluechtlinge-koennen-alle-verkehrsmittel-im-vor-gratis-nutzen/"
+      lang: de
+
+  en:
+    title: 'Transport Association Eastern Region'
+    body: |
+      VOR can be used free of charge "until further notice" (Federal states of Vienna, Lower Austria and Burgenland)
+    source:
+      url: "https://www.vor.at/service/aktuelles/detail/news/ukraine-fluechtlinge-koennen-alle-verkehrsmittel-im-vor-gratis-nutzen/"
+      lang: de

@@ -1,0 +1,26 @@
+id: oebb
+order: 10
+content:
+  ua:
+    title: 'Австрійські федеральні залізниці'
+    body: |
+      Українці, які тікають від війни, можуть користуватися потягами ÖBB в Австрії без квитка.
+    source:
+      url: "https://twitter.com/BMKlimaschutz/status/1497938641754238991"
+      lang: ua
+
+  de:
+    title: 'Österreichische Bundesbahn'
+    body: |
+      Ukrainer auf der Flucht dürfen die ÖBB-Züge in Österreich auch ohne Ticket benützen.
+    source:
+      url: "https://twitter.com/BMKlimaschutz/status/1497916096137113603"
+      lang: de
+
+  en:
+    title: 'Austrian Federal Railways'
+    body: |
+      Ukrainians who are fleeing from war can use trains of the ÖBB in Austria without a ticket.
+    source:
+      url: "https://twitter.com/BMKlimaschutz/status/1497938451471208452"
+      lang: en

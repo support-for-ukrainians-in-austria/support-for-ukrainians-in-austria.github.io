@@ -1,0 +1,23 @@
+id: bbu
+order: 100
+content:
+  ua:
+    title: 'Федеральне агентство з прийому та підтримки'
+    body: |
+      BBU підтримує іноземців, які потребують допомоги та захисту, серед іншого, базовими послугами, юридичними консультаціями та юридичним представництвом, усним та перекладачем.  
+      [Інформація для громадян України в Австрії](https://www.bbu.gv.at/ukraine)  
+      ⚠️ Запити можуть зайняти більше часу.
+
+  de:
+    title: 'Bundesagentur für Betreuungs- und Unterstützungsleistungen'
+    body: |
+      Die BBU unterstützt hilfs- und schutzbedürftige Fremde bei der Grundversorgung, Rechtsberatung und Rechtsvertretung, Dolmetsch- und Übersetzungsleistungen und anderem.  
+      [Information für ukrainische Bürger in Österreich](https://www.bbu.gv.at/ukraine)  
+      ⚠️ Anfragen könnten länger dauern.
+
+  en:
+    title: 'Federal Agency for Reception and Support Services'
+    body: |
+      The BBU supports foreigners in need of help and protection with basic services, legal advice and legal representation, interpreting and translation services among other things.  
+      [Information for Ukrainian citizens in Austria](https://www.bbu.gv.at/ukraine)  
+      ⚠️ Requests might take longer.

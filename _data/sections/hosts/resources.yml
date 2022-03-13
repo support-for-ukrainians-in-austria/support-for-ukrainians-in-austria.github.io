@@ -1,0 +1,7 @@
+id: resources
+order: 100
+content:
+  de:
+    title: 'Weitere Ressourcen'
+    body: |
+      - Asyl.at: [Aktuelle Informationen zu schutzsuchenden Menschen aus der Ukraine](http://www.asyl.at/de/info/news/informationenzurfluchtausderukraine/)

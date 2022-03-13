@@ -1,0 +1,17 @@
+id: first-steps
+order: 10
+content:
+  ua:
+    title: 'Цей розділ лише німецькою мовою.'
+
+  de:
+    title: 'Erste Schritte'
+    body: |
+      - 1) Gäste beim Gemeindeamt/Meldeamt/Magistrat anmelden. [↗️](https://www.oesterreich.gv.at/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html)
+        - In ländlicheren Gebieten ist eventuell eine Terminvereinbarung erwünscht.
+        - Benötigte Dokumente: Pässe und [Meldezettel](https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldezettel.pdf) (ausgefüllt und doppelt unterschrieben).
+        - Die Gäste selbst müssen nicht mitkommen. Es kann eigentlich jeder mit den Dokumenten die Anmeldung vornehmen.
+      - Für weitere Schritte (Krankenversicherung, staatliche Unterstützung und Arbeitsmarktzugang) braucht es die Umsetzung der EU-Richtlinie über vorübergehenden Schutz im Falle einer Massenfluchtbewegung in Österreich. Diese sollte bald vorliegen. [↗️](http://www.asyl.at/de/info/news/informationenzurfluchtausderukraine/)
+
+  en:
+    title: 'This section is in German only.'

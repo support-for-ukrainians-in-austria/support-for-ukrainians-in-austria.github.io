@@ -1,0 +1,23 @@
+id: sirens
+order: 50
+content:
+  ua:
+    title: 'Сирени в Австрії'
+    body: |
+      Сирени часто використовують в Австрії. У разі аварії або пожежі сирени вигукують 3x 15 секунд.  
+      Сирени перевіряються щосуботи о 12 годині. Раз на рік проходить тривале випробування.  
+      З цими небезпеки немає.
+
+  de:
+    title: 'Sirenen in Österreich'
+    body: |
+      In Österreich werden Sirenen oft verwendet. Bei einem Unfall oder Brand heulen die Sirenen 3x 15 Sekunden.  
+      Jeden Samstag um 12 Uhr werden die Sirenen getestet. Einmal im Jahr gibt es einen langen Test.  
+      Bei diesen besteht keine Gefahr.
+
+  en:
+    title: 'Sirens in Austria'
+    body: |
+      Sirens are often used in Austria. In the event of an accident or fire, the sirens wail 3x 15 seconds.  
+      The sirens are tested every Saturday at 12 noon. Once a year there is a long test.  
+      There is no danger with these.

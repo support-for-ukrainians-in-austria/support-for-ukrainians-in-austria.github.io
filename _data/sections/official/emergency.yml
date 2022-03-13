@@ -1,0 +1,11 @@
+id: emergency
+order: 0
+content:
+  ua:
+    title: 'Служба екстреної допомоги 📞 112'
+
+  de:
+    title: 'Notruf 📞 112'
+
+  en:
+    title: 'Emergency Service 📞 112'

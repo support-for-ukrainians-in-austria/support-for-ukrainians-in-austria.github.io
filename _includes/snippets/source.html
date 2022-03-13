@@ -1,0 +1,20 @@
+<a href="{{ url }}" target="_blank">
+{%- if language == "ua" -%}
+  джерело
+{%- elsif language == "de" -%}
+  Quelle
+{%- elsif language == "en" -%}
+  source
+{%- endif -%}
+{%- if source_language != language -%}
+  {%- if source_language == "ua" -%}
+    &nbsp; 🇺🇦
+  {%- elsif source_language == "de" -%}
+    &nbsp; 🇦🇹
+  {%- elsif source_language == "en" -%}
+    &nbsp; 🇬🇧
+  {%- endif -%}
+{%- endif -%}
+</a>
+
+
