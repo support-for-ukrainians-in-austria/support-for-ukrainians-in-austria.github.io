@@ -6,15 +6,15 @@ content:
     body: |
       Українські SIM-карти можуть безкоштовно серфінгувати та дзвонити в мережі Magenta до подальшого повідомлення. Magenta не бере плату за роумінг з українських операторів мережі. Щоб скористатися цим, вам потрібно вручну налаштувати свій пристрій на «Magenta Telekom». [Ось посібник німецькою мовою](https://www.magenta.at/hilfe-service/services/hardwaresupport/topic/netz/netzoperator-selection/device).
     source:
-      url: "https://blog.magenta.at/2022/03/07/sim-karten-fuer-fluechtlinge/"
-      lang: de
+      url: "https://www.magenta.at/allgemein/ukraine"
+      lang: ua
 
   de:
     title: 'Gratis Roaming mit Magenta'
     body: |
       Ukrainische SIM-Karten surfen und telefonieren im Magenta Netz bis auf Weiteres kostenfrei. Magenta verrechnet keine Roaming-Kosten an die ukrainischen Netzbetreiber. Um das zu nutzen, musst du dein Gerät manuell auf "Magenta Telekom" einstellen. [Hier ist eine Anleitung auf Deutsch](https://www.magenta.at/hilfe-service/services/hardwaresupport/topic/netz/netzbetreiber-auswahlen/device).
     source:
-      url: "https://blog.magenta.at/2022/03/07/sim-karten-fuer-fluechtlinge/"
+      url: "https://www.magenta.at/allgemein/ukraine"
       lang: de
 
   en:
@@ -22,5 +22,5 @@ content:
     body: |
       Ukrainian SIM cards can surf and make calls in the Magenta network free of charge until further notice. Magenta does not charge roaming costs to the Ukrainian network operators. To use this, you have to manually set your device to "Magenta Telekom". [Here is a guide in German](https://www.magenta.at/hilfe-service/services/hardwaresupport/topic/netz/netzoperator-selection/device).
     source:
-      url: "https://blog.magenta.at/2022/03/07/sim-karten-fuer-fluechtlinge/"
-      lang: de
+      url: "https://www.magenta.at/allgemein/ukraine"
+      lang: en
