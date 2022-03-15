@@ -107,10 +107,8 @@ layout: default
             </h5>
             {% if content_hash[1].source %}
             {% assign source = content_hash[1].source %}
-            {% assign source_url = source.url %}
-            {% assign source_language = source.lang %}
             <small>
-              {% include snippets/source.html language=language url=source_url source_language=source_language %}
+              {% include snippets/source.html language=language source=source %}
             </small>
             {% endif %}
           </div>

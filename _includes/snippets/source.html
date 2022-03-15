@@ -1,4 +1,4 @@
-<a href="{{ url }}" target="_blank">
+<a href="{{ source.url }}" target="_blank">
 {%- if language == "ua" -%}
   джерело
 {%- elsif language == "de" -%}
@@ -6,15 +6,22 @@
 {%- elsif language == "en" -%}
   source
 {%- endif -%}
-{%- if source_language != language -%}
-  {%- if source_language == "ua" -%}
+{%- if source.lang != language -%}
+  {%- if source.lang == "ua" -%}
     &nbsp; 🇺🇦
-  {%- elsif source_language == "de" -%}
+  {%- elsif source.lang == "de" -%}
     &nbsp; 🇦🇹
-  {%- elsif source_language == "en" -%}
+  {%- elsif source.lang == "en" -%}
     &nbsp; 🇬🇧
   {%- endif -%}
 {%- endif -%}
+{%- if source.translated -%}
+  {%- if language == "ua" -%}
+    &nbsp; (перекладено {{ source.translated }})
+  {%- elsif language == "de" -%}
+    &nbsp; (übersetzt von {{ source.translated }})
+  {%- elsif language == "en" -%}
+    &nbsp; (translated by {{ source.translated }})
+  {%- endif -%}
+{%- endif -%}
 </a>
-
-
