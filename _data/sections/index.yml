@@ -9,6 +9,11 @@ sections:
       ua: "Живий"
       de: "Leben"
       en: "Living"
+  - id: work
+    title:
+      ua: "Робота"
+      de: "Arbeit"
+      en: "Work"
   - id: communication
     title:
       ua: "Спілкування"

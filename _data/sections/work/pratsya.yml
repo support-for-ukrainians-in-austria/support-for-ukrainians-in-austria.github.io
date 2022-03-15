@@ -1,0 +1,26 @@
+id: pratsya
+order: 20
+content:
+  ua:
+    title: "Pratsya.at"
+    body: |
+      Pratsya.at – ініціатива, створена для людей, що були вимушені покинути Україну через війну і хочуть працевлаштуватися в Австрії. Якщо ви шукаєте роботу у Відні чи у федеральній землі Штирія, ми можемо вам допомогти.
+    source:
+      url: "https://www.pratsya.at/"
+      lang: ua
+
+  de:
+    title: "Pratsya.at"
+    body: |
+      Pratsya.at ist eine Initiative für aus der Ukraine geflüchtete Menschen, die in Österreich arbeiten wollen. Wenn Sie einen Job in Wien oder in der Steiermark suchen, sind Sie hier genau richtig.
+    source:
+      url: "https://www.pratsya.at/de/"
+      lang: de
+
+  en:
+    title: "Pratsya.at"
+    body: |
+      Pratsya.at is an initiative for people who have fled Ukraine and want to work in Austria. If you are looking for a job in Vienna or in Styria, you have come to the right place.
+    source:
+      url: "https://www.pratsya.at/de/"
+      lang: de

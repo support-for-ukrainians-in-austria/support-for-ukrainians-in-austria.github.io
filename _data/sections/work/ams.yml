@@ -1,0 +1,33 @@
+id: ams
+order: 10
+content:
+  ua:
+    title: "Ринок праці в Австрії для українських біженців"
+    body: |
+      Державна служба зайнятості Австрії(АМS) – з радістю допоможе Вам знайти роботу! Ми проконсультуємо Вас на шляху до ринку праці в Австрії. Ми проінформуємо Вас відносно пропозиції роботи, допомоги з курсами німецької мови або іншої кваліфікації, яка Вам буде потрібна.
+      
+      _Відкрийте посилання на джерело для отримання додаткової інформації._
+    source:
+      url: "https://www.ams.at/arbeitsuchende/arbeiten-in-oesterreich-und-der-eu/ukraine"
+      lang: ua
+
+  de:
+    title: "Arbeitsmarkt in Österreich für ukrainische Flüchtlinge"
+    body: |
+      Das Arbeitsmarktservice (AMS), das ist die öffentliche Arbeitsmarktverwaltung in Österreich, unterstützt Sie gerne, eine Arbeit zu finden. Wir beraten Sie auf Ihrem Weg in den Arbeitsmarkt in Österreich. Wir informieren Sie über Jobangebote, helfen mit Deutschkursen und sonstigen Qualifizierungen, die Sie benötigen.
+
+      _Öffnen Sie die Quellenreferenz für weitere Informationen._
+    source:
+      url: "https://www.ams.at/arbeitsuchende/arbeiten-in-oesterreich-und-der-eu/ukraine"
+      lang: de
+
+  en:
+    title: "Labour Market in Austria for Ukrainian Refugees"
+    body: |
+      The Arbeitsmarktservice (AMS), the Austrian Public Employment Service, will gladly support you in finding a job. We will advise and guide you regarding the labour market in Austria. We will inform you about job opportunities, help you with German lessons and other qualifications that you might need.
+
+      _Open the source reference for more information._
+    source:
+      url: "https://www.ams.at/arbeitsuchende/arbeiten-in-oesterreich-und-der-eu/ukraine"
+      lang: en
+
