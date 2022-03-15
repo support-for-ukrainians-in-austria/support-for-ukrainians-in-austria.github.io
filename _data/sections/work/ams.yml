@@ -1,7 +1,7 @@
 id: ams
 order: 10
 content:
-  ua:
+  uk:
     title: "Ринок праці в Австрії для українських біженців"
     body: |
       Державна служба зайнятості Австрії(АМS) – з радістю допоможе Вам знайти роботу! Ми проконсультуємо Вас на шляху до ринку праці в Австрії. Ми проінформуємо Вас відносно пропозиції роботи, допомоги з курсами німецької мови або іншої кваліфікації, яка Вам буде потрібна.
@@ -9,7 +9,7 @@ content:
       _Відкрийте посилання на джерело для отримання додаткової інформації._
     source:
       url: "https://www.ams.at/arbeitsuchende/arbeiten-in-oesterreich-und-der-eu/ukraine"
-      lang: ua
+      lang: uk
 
   de:
     title: "Arbeitsmarkt in Österreich für ukrainische Flüchtlinge"

@@ -1,7 +1,7 @@
 id: residence-permit
 order: 10
 content:
-  ua:
+  uk:
     title: "Право на тимчасове проживання для переміщених осіб"
     body: |
       Федеральне управління у справах іноземців та притулку (BFA) видає особам, які підпадають під цільові групи, посвідчення особи для переміщених осіб. Для цього необхідно зареєструватися в поліції.
@@ -29,7 +29,7 @@ content:
       _Відкрийте посилання на джерело для отримання додаткової інформації._
     source:
       url: "https://bfa-gv-at.translate.goog/news.aspx?id=6D346344574568386A70303D&_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en-US&_x_tr_pto=wapp"
-      lang: ua
+      lang: uk
       translated: Google
 
   de:

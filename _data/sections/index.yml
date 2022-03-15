@@ -1,42 +1,42 @@
 sections:
   - id: official
     title:
-      ua: "Офіційні органи"
+      uk: "Офіційні органи"
       de: "Offizielle Stellen"
       en: "Official Bodies"
   - id: living
     title:
-      ua: "Живий"
+      uk: "Живий"
       de: "Leben"
       en: "Living"
   - id: work
     title:
-      ua: "Робота"
+      uk: "Робота"
       de: "Arbeit"
       en: "Work"
   - id: communication
     title:
-      ua: "Спілкування"
+      uk: "Спілкування"
       de: "Kommunikation"
       en: "Communication"
   - id: transportation
     title:
-      ua: "Перевезення"
+      uk: "Перевезення"
       de: "Transport"
       en: "Transportation"
   - id: accommodation
     title:
-      ua: "Проживання"
+      uk: "Проживання"
       de: "Unterkunft"
       en: "Accommodation"
   - id: other
     title:
-      ua: "Інший"
+      uk: "Інший"
       de: "Anderes"
       en: "Other"
   # - id: hosts
   #   title:
-  #     ua: "Для господарів"
+  #     uk: "Для господарів"
   #     de: "Für Gastgeber"
   #     en: "For Hosts"
 

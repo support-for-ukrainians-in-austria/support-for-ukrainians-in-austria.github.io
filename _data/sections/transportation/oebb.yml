@@ -1,13 +1,13 @@
 id: oebb
 order: 10
 content:
-  ua:
+  uk:
     title: 'Австрійські федеральні залізниці'
     body: |
       Українці, які тікають від війни, можуть користуватися потягами ÖBB в Австрії без квитка.
     source:
       url: "https://twitter.com/BMKlimaschutz/status/1497938641754238991"
-      lang: ua
+      lang: uk
 
   de:
     title: 'Österreichische Bundesbahn'

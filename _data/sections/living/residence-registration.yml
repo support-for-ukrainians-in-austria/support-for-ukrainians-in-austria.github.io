@@ -1,7 +1,7 @@
 id: residence-permit
 order: 20
 content:
-  ua:
+  uk:
     title: "Реєстрація місця проживання"
     body: |
       Будь-яка особа, яка проживає в квартирі в Австрії, зобов'язана зареєструватися у відповідальному органі реєстрації, а також усі неповнолітні, які проживають в одному домогосподарстві.
@@ -11,7 +11,7 @@ content:
       Деякі органи реєстрації (у сільській місцевості) бажають записатися на прийом.
     source:
       url: "https://www-oesterreich-gv-at.translate.goog/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en-US&_x_tr_pto=wapp"
-      lang: ua
+      lang: uk
       translated: Google
 
   de:

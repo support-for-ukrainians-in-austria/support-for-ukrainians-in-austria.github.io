@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<p lang="ua">
+<p lang="uk">
   🇺🇦 На цій сторінці зібрано важливу та корисну інформацію для всіх, хто приїжджає до Австрії з України та для тих, хто їм допомагає. Це спільний проект – ми раді зворотній зв’язку та допомозі.
 </p>
 
@@ -21,8 +21,8 @@ layout: default
   <form id="select-languages-form">
     <div class="align-middle" style="font-size: 2rem">
       <div class="form-check form-switch">
-        <input class="form-check-input" type="checkbox" name="language" id="language_ua" value="ua" checked>
-        <label class="form-check-label" for="language_ua">
+        <input class="form-check-input" type="checkbox" name="language" id="language_uk" value="uk" checked>
+        <label class="form-check-label" for="language_uk">
           🇺🇦 Виберіть Мови
         </label>
       </div>
@@ -78,8 +78,8 @@ layout: default
 <div class="sections">
   {% for section in site.data.sections.index.sections %}
     <h2 id="{{ section.id }}" class="section">
-      {% if section.title.ua %}
-        <span class="language-content language-content-ua" lang="ua">🇺🇦 {{ section.title.ua }}</span>
+      {% if section.title.uk %}
+        <span class="language-content language-content-uk" lang="uk">🇺🇦 {{ section.title.uk }}</span>
       {% endif %}
       {% if section.title.de %}
         <span class="language-content language-content-de" lang="de">🇦🇹 {{ section.title.de }}</span>

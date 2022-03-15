@@ -1,13 +1,13 @@
 id: magenta-free-roaming
 order: 10
 content:
-  ua:
+  uk:
     title: 'Безкоштовний роумінг з Magenta'
     body: |
       Українські SIM-карти можуть безкоштовно серфінгувати та дзвонити в мережі Magenta до подальшого повідомлення. Magenta не бере плату за роумінг з українських операторів мережі. Щоб скористатися цим, вам потрібно вручну налаштувати свій пристрій на «Magenta Telekom». [Ось посібник німецькою мовою](https://www.magenta.at/hilfe-service/services/hardwaresupport/topic/netz/netzoperator-selection/device).
     source:
       url: "https://www.magenta.at/allgemein/ukraine"
-      lang: ua
+      lang: uk
 
   de:
     title: 'Gratis Roaming mit Magenta'

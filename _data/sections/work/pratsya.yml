@@ -1,13 +1,13 @@
 id: pratsya
 order: 20
 content:
-  ua:
+  uk:
     title: "Pratsya.at"
     body: |
       Pratsya.at – ініціатива, створена для людей, що були вимушені покинути Україну через війну і хочуть працевлаштуватися в Австрії. Якщо ви шукаєте роботу у Відні чи у федеральній землі Штирія, ми можемо вам допомогти.
     source:
       url: "https://www.pratsya.at/"
-      lang: ua
+      lang: uk
 
   de:
     title: "Pratsya.at"

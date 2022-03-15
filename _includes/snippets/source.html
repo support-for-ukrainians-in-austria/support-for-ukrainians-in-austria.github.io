@@ -1,5 +1,5 @@
 <a href="{{ source.url }}" target="_blank">
-{%- if language == "ua" -%}
+{%- if language == "uk" -%}
   джерело
 {%- elsif language == "de" -%}
   Quelle
@@ -7,7 +7,7 @@
   source
 {%- endif -%}
 {%- if source.lang != language -%}
-  {%- if source.lang == "ua" -%}
+  {%- if source.lang == "uk" -%}
     &nbsp; 🇺🇦
   {%- elsif source.lang == "de" -%}
     &nbsp; 🇦🇹
@@ -16,7 +16,7 @@
   {%- endif -%}
 {%- endif -%}
 {%- if source.translated -%}
-  {%- if language == "ua" -%}
+  {%- if language == "uk" -%}
     &nbsp; (перекладено {{ source.translated }})
   {%- elsif language == "de" -%}
     &nbsp; (übersetzt von {{ source.translated }})

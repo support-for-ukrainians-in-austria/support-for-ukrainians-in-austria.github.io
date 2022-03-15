@@ -1,7 +1,7 @@
 id: healthcare
 order: 30
 content:
-  ua:
+  uk:
     title: "системи охорони здоров'я"
     body: |
       Ситуація ще не вирішена, але має бути незабаром. А поки всі лікарі, які мають контракт з ÖGK (однією з австрійських федеральних систем медичного страхування), будуть лікувати вас безкоштовно, потрібно лише мати при собі паспорт. Ось веб-сайт для пошуку лікарів за мовами, якими вони володіють: [Docfinder.at](https://www.docfinder.at/suche/praktischer-arzt?whatType=search_group&whereType=country&userSubmitted=1&insurances%5B0%5D=%C3%96GK&sortBy=relevance&originalWhat=Praktischer+Arzt)
