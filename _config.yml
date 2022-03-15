@@ -4,7 +4,7 @@ author:
   name: 'Github User'
   email: 'github@example.com'
 description: >- # this means to ignore newlines until "baseurl:"
-  This page collects important and useful information for everyone who comes to Austria from Ukraine and for those who help them.
+  This page collects important and useful information for everyone who comes to Austria from Ukraine and for those who help them. This is a collaborative project - we welcome feedback and help.
 
 excerpts:
   # Displays or hides post excerpts from home layout post listing.

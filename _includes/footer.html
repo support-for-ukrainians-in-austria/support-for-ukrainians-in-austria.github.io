@@ -3,13 +3,7 @@
   <div class="container py-3">
     <div class="row">
       <div class="col">
-        This collaborative project is maintained by:
-        <ul class="contact-list list-unstyled">
-        {% for maintainer in site.data.maintainers.maintainers %}
-          {% assign maintainer_social = maintainer.social %}
-          <li class="p-name">{{ maintainer.name | escape }} {% include social.html social=maintainer_social %}</li>
-        {% endfor %}
-        </ul>
+        {% include maintainers.html %}
       </div>
       <div class="col">
         <p>{{ site.description | escape }}</p>
