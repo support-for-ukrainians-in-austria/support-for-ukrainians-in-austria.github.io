@@ -10,3 +10,8 @@ content:
     title: 'Stadt Wien'
     body: |
       [Informationen für Menschen aus der Ukraine](https://start.wien.gv.at/ukraine/de)
+
+  en:
+    title: 'City of Vienna'
+    body: |
+      [Information for people from Ukraine (German)](https://start.wien.gv.at/ukraine/de)

@@ -1,0 +1,40 @@
+id: residence-permit
+order: 20
+content:
+  ua:
+    title: "Реєстрація місця проживання"
+    body: |
+      Будь-яка особа, яка проживає в квартирі в Австрії, зобов'язана зареєструватися у відповідальному органі реєстрації, а також усі неповнолітні, які проживають в одному домогосподарстві.
+
+      Для цього [цю форму](https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldezettel.pdf) потрібно заповнити та підписати. За допомогою цієї форми та паспортів можна зареєструвати місце проживання. Особиста явка не потрібна – реєстрацію може зробити хтось інший.
+
+      Деякі органи реєстрації (у сільській місцевості) бажають записатися на прийом.
+    source:
+      url: "https://www-oesterreich-gv-at.translate.goog/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en-US&_x_tr_pto=wapp"
+      lang: ua
+      translated: Google
+
+  de:
+    title: "Anmeldung des Wohnsitzes"
+    body: |
+      Wer in einer Wohnung in Österreich Unterkunft nimmt, ist verpflichtet, sich sowie alle minderjährigen im gemeinsamen Haushalt lebenden Personen bei der zuständigen Meldebehörde anzumelden.
+
+      Dazu muss [dieses Formular](https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldezettel.pdf) ausgefüllt und unterschrieben werden. Mit diesem Formular und den Reisepässen kann der Wohnsitz angemeldet werden. Ein persönliches Erscheinen ist nicht notwendig - jemand anderes kann die Anmeldung durchführen.
+
+      Manche Meldebehörden (in ländlicheren Gebieten) wünschen sich eine Terminvereinbarung.
+    source:
+      url: "https://www.oesterreich.gv.at/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html"
+      lang: de
+
+  en:
+    title: "Registration of residence"
+    body: |
+      Anyone who takes up accommodation in an apartment in Austria is obliged to register with the responsible registration authority, as well as all minors living in the same household.
+
+      To do this, [this form](https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldezettel.pdf) must be completed and signed. With this form and the passports, the place of residence can be registered. A personal appearance is not necessary - someone else can do the registration.
+
+      Some registration authorities (in more rural areas) wish an appointment to be made.
+    source:
+      url: "https://www-oesterreich-gv-at.translate.goog/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp"
+      lang: en
+      translated: Google

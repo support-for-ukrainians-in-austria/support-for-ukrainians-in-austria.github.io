@@ -4,6 +4,11 @@ sections:
       ua: "Офіційні органи"
       de: "Offizielle Stellen"
       en: "Official Bodies"
+  - id: living
+    title:
+      ua: "Живий"
+      de: "Leben"
+      en: "Living"
   - id: communication
     title:
       ua: "Спілкування"
@@ -14,20 +19,15 @@ sections:
       ua: "Перевезення"
       de: "Transport"
       en: "Transportation"
-  - id: healthcare
-    title:
-      ua: "охорона здоров'я"
-      de: "Gesundheit"
-      en: "Healthcare"  
   - id: accommodation
     title:
       ua: "Проживання"
       de: "Unterkunft"
       en: "Accommodation"
-  - id: hosts
-    title:
-      ua: "Для господарів"
-      de: "Für Gastgeber"
-      en: "For Hosts"
+  # - id: hosts
+  #   title:
+  #     ua: "Для господарів"
+  #     de: "Für Gastgeber"
+  #     en: "For Hosts"
 
 emptyArray: [] # workaround for getting an empty array in liquied
