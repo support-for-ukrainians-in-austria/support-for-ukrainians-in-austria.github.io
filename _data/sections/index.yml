@@ -29,6 +29,11 @@ sections:
       ua: "Проживання"
       de: "Unterkunft"
       en: "Accommodation"
+  - id: other
+    title:
+      ua: "Інший"
+      de: "Anderes"
+      en: "Other"
   # - id: hosts
   #   title:
   #     ua: "Для господарів"

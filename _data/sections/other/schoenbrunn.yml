@@ -1,0 +1,26 @@
+id: schoenbrunn
+order: 10
+content:
+  ua:
+    title: 'Зоопарк Шенбрунн у Відні'
+    body: |
+      Українські сім’ї, яким через війну довелося покинути батьківщину та втекти до Австрії, з 14 березня можуть безкоштовно відвідати наш зоопарк. Для в’їзду достатньо пред’явити в касі український паспорт або відповідний український проїзний документ. Спочатку кампанія обмежена чотирма тижнями.
+    source:
+      url: "https://www.zoovienna.at/de/news/angebot--fur-ukrainische-fluchtlinge/"
+      lang: de
+
+  de:
+    title: 'Tiergarten Schönbrunn in Wien'
+    body: |
+      Ukrainische Familien, die durch den Krieg ihre Heimat verlassen und nach Österreich flüchten mussten, können ab dem 14. März gratis unseren Tiergarten besuchen. Für den Eintritt reicht es, an den Kassen einen ukrainischen Pass oder ein entsprechendes ukrainisches Reisedokument vorzuweisen. Die Aktion ist vorerst auf vier Wochen begrenzt.
+    source:
+      url: "https://www.zoovienna.at/de/news/angebot--fur-ukrainische-fluchtlinge/"
+      lang: de
+
+  en:
+    title: 'Schönbrunn Zoo in Vienna'
+    body: |
+      Ukrainian families who had to leave their homeland due to the war and flee to Austria can visit our zoo for free from March 14th. For entry, it is sufficient to show a Ukrainian passport or a corresponding Ukrainian travel document at the cash desk. The campaign is initially limited to four weeks.
+    source:
+      url: "https://www.zoovienna.at/de/news/angebot--fur-ukrainische-fluchtlinge/"
+      lang: de
