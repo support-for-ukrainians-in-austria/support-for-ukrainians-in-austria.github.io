@@ -9,6 +9,11 @@ sections:
       uk: "Живий"
       de: "Leben"
       en: "Living"
+  - id: accommodation
+    title:
+      uk: "Проживання"
+      de: "Unterkunft"
+      en: "Accommodation"
   - id: work
     title:
       uk: "Робота"
@@ -24,11 +29,6 @@ sections:
       uk: "Перевезення"
       de: "Transport"
       en: "Transportation"
-  - id: accommodation
-    title:
-      uk: "Проживання"
-      de: "Unterkunft"
-      en: "Accommodation"
   - id: other
     title:
       uk: "Інший"
