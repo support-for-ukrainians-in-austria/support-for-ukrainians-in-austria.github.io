@@ -1,0 +1,17 @@
+id: ukraine-take-shelter
+order: 20
+content:
+  uk:
+    title: 'Ukraine Take Shelter'
+    body: |
+      [UkraineTakeShelter.com](https://www.ukrainetakeshelter.com/) є незалежною електронною платформою, яка має на меті допомогти українським біженцям знайти людей та організації, які готові їх прихистити.
+
+  de:
+    title: 'Ukraine Take Shelter'
+    body: |
+      [UkraineTakeShelter.com](https://www.ukrainetakeshelter.com/) ist eine unabhängige Plattform, die ukrainische Flüchtlinge mit potenziellen Gastgeberfamilien, die Unterkünfte zur Verfügung stellen können, zusammenbringen soll.
+
+  en:
+    title: 'Ukraine Take Shelter'
+    body: |
+      [UkraineTakeShelter.com](https://www.ukrainetakeshelter.com/) is an independent platform connecting Ukrainian refugees with potential hosts and housing.
