@@ -2,7 +2,7 @@ id: residence-permit
 order: 10
 content:
   uk:
-    title: "Реєстрація місця проживання"
+    title: "Крок 1. Повідомте про місце проживання"
     body: |
       Будь-яка особа, яка проживає в квартирі в Австрії, зобов'язана зареєструватися у відповідальному органі реєстрації, а також усі неповнолітні, які проживають в одному домогосподарстві.
 
@@ -15,7 +15,7 @@ content:
       translated: Google
 
   de:
-    title: "Anmeldung des Wohnsitzes"
+    title: "Schritt 1: Anmeldung des Wohnsitzes"
     body: |
       Wer in einer Wohnung in Österreich Unterkunft nimmt, ist verpflichtet, sich sowie alle minderjährigen im gemeinsamen Haushalt lebenden Personen bei der zuständigen Meldebehörde anzumelden.
 
@@ -27,7 +27,7 @@ content:
       lang: de
 
   en:
-    title: "Registration of residence"
+    title: "Step 1: Report Residence"
     body: |
       Anyone who takes up accommodation in an apartment in Austria is obliged to register with the responsible registration authority, as well as all minors living in the same household.
 

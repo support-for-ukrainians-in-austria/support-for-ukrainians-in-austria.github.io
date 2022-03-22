@@ -1,0 +1,29 @@
+id: jobs-for-ukraine-at
+order: 30
+content:
+  uk:
+    title: "jobs-for-ukraine.at"
+    body: |
+      Ми допоможемо знайти роботу в Австрії!
+      Ми підтримуємо український народ, який був змушений покинути свою країну. Ми зв’язуємо шукачів роботи з роботодавцями, сприяючи інтеграції переміщених осіб на австрійський ринок праці та допомагаючи їм відновити фінансову безпеку.
+    source:
+      url: "https://www.jobs-for-ukraine.at/"
+      lang: en
+
+  de:
+    title: "jobs-for-ukraine.at"
+    body: |
+      Wir helfen Ihnen bei der Jobsuche in Österreich!
+      Wir unterstützen die ukrainische Bevölkerung, die ihr Land verlassen musste. Wir bringen Arbeitssuchende mit Arbeitgebern zusammen, erleichtern die Integration von geflüchteten Personen in den österreichischen Arbeitsmarkt und helfen ihnen, finanzielle Sicherheit zurückzugewinnen.
+    source:
+      url: "https://www.jobs-for-ukraine.at/"
+      lang: en
+
+  en:
+    title: "jobs-for-ukraine.at"
+    body: |
+      We help you find a job in Austria!
+      We support the Ukrainian people who had to leave their country. We connect job seekers with employers, facilitating the integration of displaced persons into the Austrian labor market and helping them regain financial security.
+    source:
+      url: "https://www.jobs-for-ukraine.at/"
+      lang: en

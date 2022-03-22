@@ -1,0 +1,17 @@
+id: first-steps
+order: 40
+content:
+  uk:
+    title: "Крок 4. Подайте заявку на базовий догляд"
+    body: |
+      В процесі.
+
+  de:
+    title: "Schritt 4: Grundversorgnung beantragen"
+    body: |
+      In Arbeit.
+
+  en:
+    title: "Step 4: Apply for basic care"
+    body: |
+      In progress.

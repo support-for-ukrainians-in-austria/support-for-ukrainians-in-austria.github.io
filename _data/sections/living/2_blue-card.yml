@@ -1,8 +1,8 @@
-id: residence-permit
+id: blue-card
 order: 20
 content:
   uk:
-    title: "Право на тимчасове проживання для переміщених осіб"
+    title: "Крок 2: Тимчасове право на проживання для переміщених осіб - Блакитна карта"
     body: |
       Федеральне управління у справах іноземців та притулку (BFA) видає особам, які підпадають під цільові групи, посвідчення особи для переміщених осіб. Для цього необхідно зареєструватися в поліції.
 
@@ -16,7 +16,7 @@ content:
 
       __Порядок та видачі посвідчення особи для переміщених осіб__
 
-      – Початкову реєстрацію проводить поліція. Це можна зробити в окремих відділках поліції або в спеціальних центрах прийому чи реєстрації.
+      - Початкову реєстрацію проводить поліція. Це можна зробити в [спеціальних поліцейських дільницях](https://www.bbu.gv.at/erfassungsstellen) або в спеціальних центрах прийому або реєстрації.
       - Під час реєстрації будуть записані ваші дані та дані вашого паспорта чи інших документів. Особи віком від 14 років підлягають ідентифікації (зняття відбитків пальців тощо). Є форма, яку ви заповнюєте та надсилаєте під час реєстрації.
       - Будь ласка, візьміть з собою для реєстрації (за наявності):
         - Паспорт
@@ -33,7 +33,7 @@ content:
       translated: Google
 
   de:
-    title: "Vorübergehendes Aufenthaltsrecht für Vertriebene"
+    title: "Schritt 2: Vorübergehendes Aufenthaltsrecht für Vertriebene - Blaue Karte"
     body: |
       Das Bundesamt für Fremdenwesen und Asyl (BFA) stellt Personen, die unter die Zielgruppen fallen, einen Ausweis für Vertriebene aus. Dafür ist es notwendig, dass Sie sich bei der Polizei registrieren lassen.
 
@@ -47,7 +47,7 @@ content:
 
       __Ablauf und Ausstellung des Ausweises für Vertriebene__
 
-      - Eine erste Registrierung erfolgt durch die Polizei. Das kann bei bestimmten Polizeidienststellen oder in besonderen Aufnahme- oder Registrierungszentren erfolgen.
+      - Eine erste Registrierung erfolgt durch die Polizei. Das kann bei [bestimmten Polizeidienststellen](https://www.bbu.gv.at/erfassungsstellen) oder in besonderen Aufnahme- oder Registrierungszentren erfolgen.
       - Bei der Registrierung werden Ihre Daten sowie die Daten Ihres Reisepasses oder anderer Urkunden aufgenommen. Bei Personen ab 14 Jahren erfolgt eine erkennungsdienstliche Behandlung (Abnahme der Fingerabdrücke usw.). Es gibt ein Formular, das Sie bitte bei der Registrierung ausfüllen und abgeben.
       - Bitte nehmen Sie zur Registrierung mit (soweit vorhanden):
         - Reisepass
@@ -63,7 +63,7 @@ content:
       lang: de
 
   en:
-    title: "Temporary right of residence for displaced persons"
+    title: "Step 2: Temporary right of residence for displaced persons - Blue Card"
     body: |
       The Federal Office for Aliens and Asylum (BFA) issues persons who fall under the target groups with an identity card for displaced persons. For this it is necessary that you register with the police.
 
@@ -77,7 +77,7 @@ content:
 
       __Procedure and issuance of the identity card for displaced persons__
 
-      - An initial registration is carried out by the police. This can be done at specific police stations or at special reception or registration centers.
+      - An initial registration is carried out by the police. This can be done at [specific police stations](https://www.bbu.gv.at/erfassungsstellen) or at special reception or registration centers.
       - When registering, your data and the data of your passport or other documents will be recorded. Persons aged 14 and over are subject to identification (taking fingerprints, etc.). There is a form that you fill out and submit when registering.
       - Please bring with you to registration (if available):
         - Passport

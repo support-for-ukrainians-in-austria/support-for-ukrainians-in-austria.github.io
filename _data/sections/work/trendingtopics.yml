@@ -1,0 +1,29 @@
+id: trendingtopics
+order: 40
+content:
+  uk:
+    title: "Trending Topics"
+    body: |
+      Актуальні теми Вакансія підтримує українців.
+      Наша платформа працевлаштування тепер відкрита для просування будь-яких видів роботи, які можуть допомогти українцям у цей складний час.
+    source:
+      url: "https://www.jobs.trendingtopics.eu/for-ukrainians"
+      lang: en
+
+  de:
+    title: "Trending Topics"
+    body: |
+      Trending Topics Jobs unterstützt Ukrainer.
+      Unsere Jobplattform ist jetzt offen, um jede Art von Job zu fördern, der den Ukrainern in diesen herausfordernden Zeiten helfen könnte.
+    source:
+      url: "https://www.jobs.trendingtopics.eu/for-ukrainians"
+      lang: en
+
+  en:
+    title: "Trending Topics"
+    body: |
+      Trending Topics Jobs supports Ukrainians.
+      Our job platform is now open to promote any type of job that could help Ukrainians in this challenging times.
+    source:
+      url: "https://www.jobs.trendingtopics.eu/for-ukrainians"
+      lang: en

@@ -1,0 +1,44 @@
+id: first-steps
+order: 0
+content:
+  uk:
+    title: "Перші кроки"
+    body: |
+      Якщо ви прибули в Австрію і вже знайшли житло, ось наступні кроки:
+      1. Повідомити про місце проживання
+      2. Реєстрація в міліції у справах іноземців
+        - Можливо, ви вже зареєструвалися на кордоні.
+        - Ви отримуєте «Блакитну картку» і можете перебувати в Австрії до 2 років.
+        - Ви отримуєте номер соціального страхування та доступ до системи охорони здоров’я.
+        - Ви отримуєте доступ до ринку праці.
+      3. Відкрити банківський рахунок
+      4. Подайте заявку на базовий догляд
+        - Ви отримуєте гроші на основні потреби.
+
+  de:
+    title: "Erste Schritte"
+    body: |
+      Wenn du in Österreich ankommst und bereits eine Unterkunft gefunden hast, sind das die nächsten Schritte:
+      1. Wohnsitz melden
+      2. Registrierung bei der Fremdenpolizei
+        - Vielleicht hast du dich bereits an Grenze registriert.
+        - Du bekommst die "Blaue Karte" und darfst bis zu 2 Jahre in Österreich bleiben.
+        - Du bekommst eine Sozialversicherungsnummer und Zugang zum Gesundheitssystem.
+        - Du bekommst Zugang zum Arbeitsmarkt.
+      3. Bankkonto eröffnen
+      4. Grundversorgnung beantragen
+        - Du bekommst Geld für deine Grundbedürfnisse.
+
+  en:
+    title: "First Steps"
+    body: |
+      If you arrive in Austria and have already found accommodation, these are the next steps:
+      1. Report residence
+      2. Registration with the Aliens' Police
+        - Perhaps you have already registered at the border.
+        - You get the "Blue Card" and can stay in Austria for up to 2 years.
+        - You get a social security number and access to the healthcare system.
+        - You get access to the job market.
+      3. Open a bank account
+      4. Apply for basic care
+        - You get money for your basic needs.

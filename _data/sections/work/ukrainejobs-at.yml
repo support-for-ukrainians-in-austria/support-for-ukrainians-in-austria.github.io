@@ -1,0 +1,26 @@
+id: ukrainejobs-at
+order: 20
+content:
+  uk:
+    title: "ukrainejobs.at"
+    body: |
+      ukrainejobs.at має на меті об’єднати українських біженців та австрійських роботодавців. Платформа є безкоштовною для обох сторін і має на меті миттєву допомогу шукачам роботи з їх попитом, а також підтримку інтеграції на австрійський ринок праці.
+    source:
+      url: "https://www.ukrainejobs.at/"
+      lang: en
+
+  de:
+    title: "ukrainejobs.at"
+    body: |
+      ukrainejobs.at will ukrainische Flüchtlinge und österreichische Arbeitgeber zusammenbringen. Die Plattform ist für beide Seiten kostenlos und hat den Zweck, Arbeitssuchenden bei der Stellensuche sofort zu helfen sowie die Integration in den österreichischen Arbeitsmarkt zu unterstützen.
+    source:
+      url: "https://www.ukrainejobs.at/"
+      lang: en
+
+  en:
+    title: "ukrainejobs.at"
+    body: |
+      ukrainejobs.at aims at bringing Ukrainian refugees and Austrian employers together. The platform is free of charge for both parties and has the purpose of instantly helping jobseekers with their demand as well as support integration into the Austrian labour market.
+    source:
+      url: "https://www.ukrainejobs.at/"
+      lang: en

@@ -1,0 +1,29 @@
+id: bank-account
+order: 30
+content:
+  uk:
+    title: "Крок 3: Відкрийте банківський рахунок"
+    body: |
+      Щоб подати заявку на базовий догляд, вам потрібен банківський рахунок. Деякі банки надають вам безкоштовний рахунок на перший рік.
+
+      «[Erste Bank und Sparkassen](https://www.sparkasse.at/sgruppe/ukraine-hilfe)» пропонує безкоштовний обліковий запис на перший рік, і їх додаток може розмовляти більшістю мов – але, на жаль, ще не українською чи російською.
+      Зазвичай для відкриття рахунку необхідно записатися на прийом.
+      Якщо ви не володієте німецькою чи англійською, візьміть з собою когось для перекладу.
+
+  de:
+    title: "Schritt 3: Bankkonto eröffnen"
+    body: |
+      Für den Antrag auf Grundversorgung benötigst du ein Bankkonto. Manche Banken geben dir ein kostenloses Konto für das erste Jahr.
+
+      Die "[Erste Bank und Sparkassen](https://www.sparkasse.at/sgruppe/ukraine-hilfe)" bieten einen kostenloses Konto im ersten Jahr und ihre App kann die meisten Sprachen - aber leider noch kein Ukrainisch oder Russisch.
+      Für die Kontoeröffnung ist es meistens notwendig einen Termin zu vereinbaren.
+      Wenn du kein Deutsch oder Englisch sprichst, nimm bitte jemanden zum übersetzen mit.
+
+  en:
+    title: "Step 3: Open a bank account"
+    body: |
+      You need a bank account to apply for basic care. Some banks give you a free account for the first year.
+
+      The "[Erste Bank und Sparkassen](https://www.sparkasse.at/sgruppe/ukraine-hilfe)" offer a free account for the first year and their app can speak most languages - but unfortunately not yet Ukrainian or Russian.
+      It is usually necessary to make an appointment to open an account.
+      If you don't speak German or English, please take someone with you to translate.
