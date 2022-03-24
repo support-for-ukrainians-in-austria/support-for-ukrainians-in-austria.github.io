@@ -8,7 +8,7 @@
 {%- endif -%}
 {%- if source.lang != language -%}
   {% assign language = source.lang %}
-  in {% include snippets/flag.html %}
+  {% include snippets/flag.html %}
 {%- endif -%}
 {%- if source.translated -%}
   {%- if language == "uk" -%}
