@@ -6,15 +6,21 @@ layout: default
 ---
 
 <p lang="uk">
-  🇺🇦 На цій сторінці зібрано важливу та корисну інформацію для всіх, хто приїжджає до Австрії з України та для тих, хто їм допомагає. Це спільний проект – ми раді зворотній зв’язку та допомозі.
+  {% assign language = "uk" %}
+  {% include snippets/flag.html %}
+  На цій сторінці зібрано важливу та корисну інформацію для всіх, хто приїжджає до Австрії з України та для тих, хто їм допомагає. Це спільний проект – ми раді зворотній зв’язку та допомозі.
 </p>
 
 <p lang="de">
-  🇦🇹 Diese Seite sammelt wichtige und nützliche Informations für alle, die aus der Ukraine nach Österreich kommen und für jene, die ihnen helfen. Das ist ein gemeinschaftliches Projekt - wir freuens auf Hinweise und Hilfe.
+  {% assign language = "de" %}
+  {% include snippets/flag.html %}
+  Diese Seite sammelt wichtige und nützliche Informations für alle, die aus der Ukraine nach Österreich kommen und für jene, die ihnen helfen. Das ist ein gemeinschaftliches Projekt - wir freuens auf Hinweise und Hilfe.
 </p>
 
 <p lang="en">
-  🇬🇧 This page collects important and useful information for everyone who comes to Austria from Ukraine and for those who help them. This is a collaborative project - we welcome feedback and help.
+  {% assign language = "en" %}
+  {% include snippets/flag.html %}
+  This page collects important and useful information for everyone who comes to Austria from Ukraine and for those who help them. This is a collaborative project - we welcome feedback and help.
 </p>
 
 <div id="select-languages">
@@ -23,19 +29,25 @@ layout: default
       <div class="form-check form-switch">
         <input class="form-check-input" type="checkbox" name="language" id="language_uk" value="uk" checked>
         <label class="form-check-label" for="language_uk">
-          🇺🇦 Виберіть Мови
+          {% assign language = "uk" %}
+          {% include snippets/flag.html %}
+          Виберіть Мови
         </label>
       </div>
       <div class="form-check form-switch">
         <input class="form-check-input" type="checkbox" name="language" id="language_de" value="de">
         <label class="form-check-label" for="language_de">
-          🇦🇹 Wähle Sprachen
+          {% assign language = "de" %}
+          {% include snippets/flag.html %}
+          Wähle Sprachen
         </label>
       </div>
       <div class="form-check form-switch">
         <input class="form-check-input" type="checkbox" name="language" id="language_en" value="en">
         <label class="form-check-label" for="language_en">
-          🇬🇧 Select Languages
+          {% assign language = "en" %}
+          {% include snippets/flag.html %}
+          Select Languages
         </label>
       </div>
     </div>
@@ -79,13 +91,25 @@ layout: default
   {% for section in site.data.sections.index.sections %}
     <h2 id="{{ section.id }}" class="section">
       {% if section.title.uk %}
-        <span class="language-content language-content-uk" lang="uk">🇺🇦 {{ section.title.uk }}</span>
+        <span class="language-content language-content-uk" lang="uk">
+          {% assign language = "uk" %}
+          {% include snippets/flag.html %}
+          {{ section.title.uk }}
+        </span>
       {% endif %}
       {% if section.title.de %}
-        <span class="language-content language-content-de" lang="de">🇦🇹 {{ section.title.de }}</span>
+        <span class="language-content language-content-de" lang="de">
+          {% assign language = "de" %}
+          {% include snippets/flag.html %}
+          {{ section.title.de }}
+        </span>
       {% endif %}
       {% if section.title.en %}
-        <span class="language-content language-content-en" lang="en">🇬🇧 {{ section.title.en }}</span>
+        <span class="language-content language-content-en" lang="en">
+          {% assign language = "en" %}
+          {% include snippets/flag.html %}
+          {{ section.title.en }}
+        </span>
       {% endif %}
     </h2>
 
@@ -102,7 +126,7 @@ layout: default
         <li id="{{ section.id }}-{{ entry.id }}-{{ language }}" class="list-group-item language-content language-content-{{ language }}" lang="{{ language }}">
           <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">
-              {% include snippets/flag.html language=language %}
+              {% include snippets/flag.html %}
               {{ content_hash[1].title }}
             </h5>
             {% if content_hash[1].source %}

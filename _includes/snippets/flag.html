@@ -1,7 +1,8 @@
-{%- if language == "uk" -%}
-🇺🇦
-{%- elsif language == "de" -%}
-🇦🇹
-{%- elsif language == "en" -%}
-🇬🇧
-{%- endif %}
+{%- case language -%}
+{%- when "uk" -%}
+  <span class="flag fi fi-ua fis"></span>
+{%- when "de" -%}
+  <span class="flag fi fi-at fis"></span>
+{%- when "en" -%}
+  <span class="flag fi fi-gb fis"></span>
+{%- endcase -%}

@@ -7,13 +7,8 @@
   source
 {%- endif -%}
 {%- if source.lang != language -%}
-  {%- if source.lang == "uk" -%}
-    &nbsp; 🇺🇦
-  {%- elsif source.lang == "de" -%}
-    &nbsp; 🇦🇹
-  {%- elsif source.lang == "en" -%}
-    &nbsp; 🇬🇧
-  {%- endif -%}
+  {% assign language = source.lang %}
+  in {% include snippets/flag.html %}
 {%- endif -%}
 {%- if source.translated -%}
   {%- if language == "uk" -%}
